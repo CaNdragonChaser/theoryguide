@@ -12,3 +12,11 @@
 .desc {
     vertical-align: bottom;
 }
+
+.redgreen {
+	background: linear-gradient(to right, #D50000 50%, #1B5E20 51%);
+}
+
+.bluegreen {
+	background: linear-gradient(to right, #0D47A1 50%, #388E3C 51%);
+}
