@@ -1,0 +1,14 @@
+/* YOUR CUSTOM STYLES */
+.w-auto {
+    width: auto;
+}
+
+.rna {
+    text-transform: none;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+}
+
+.desc {
+    vertical-align: bottom;
+}
